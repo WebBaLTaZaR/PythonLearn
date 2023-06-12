@@ -1,4 +1,3 @@
-import random
 n = int(input())
 num = list(map(int, input().split()))
 x = int(input())
